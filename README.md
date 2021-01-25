@@ -1,5 +1,6 @@
-<img align="right" alt="GIF" src="/javascript.gif" width="500" height="320" />
 ### Hi there 👋
+![](/javascript.gif)
+
 
 <!--
 **mianawais99/mianawais99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
