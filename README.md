@@ -16,7 +16,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 #### Feel free to give Your Suggestions, Issues or PRs🌍
   
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight" margin="5px" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
 </p>
 <center>
