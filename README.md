@@ -15,23 +15,11 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 </div>
 
+| About Me | Top Languages |
+| --- | --- |
+| Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth. | ![Mian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-<div class="row" >
-<div class="md-5">
-<p align="left">
-Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
-</p>
-</div>
 
-<div class="md-7" align="right">
-
-| Top Languages |
-| --- |
-| ![Mian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-</div>
-
-</div>
 
 <div align="center">
   
@@ -55,8 +43,6 @@ I like to Record and Share **Knowledge** ☁️
 **Kubernetes, Docker, Istio, Envoy, WebAssembly, eBPF** 🪐
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=mianawais99)
-
-## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 
 #### Feel free to give Your Suggestions, Issues or PRs🌍
   
