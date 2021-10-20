@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="/javascript.gif" width="500" height="320" />
 Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
 
-<img align="right" alt="GIF" src="/2GU.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="/2GU.gif" width="500" height="320" /> -->
 
 
 
