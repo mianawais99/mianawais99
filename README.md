@@ -9,7 +9,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 
  -->
 
- ###Hi, I'm [Mian Awais](https://www.linkedin.com/in/mianawais99/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ ### Hi, I'm [Mian Awais](https://www.linkedin.com/in/mianawais99/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="right">
 
