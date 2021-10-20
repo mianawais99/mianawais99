@@ -4,6 +4,8 @@
 <img align="right" alt="GIF" src="/javascript.gif" width="500" height="320" />
 Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
 
+![Hey there, I'm Mian Awais. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 <!-- <img align="right" alt="GIF" src="/2GU.gif" width="500" height="320" /> -->
 
 
