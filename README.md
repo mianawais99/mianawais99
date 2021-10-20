@@ -4,14 +4,9 @@
 <img align="right" alt="GIF" src="/javascript.gif" width="500" height="320" />
 Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
 
-![Hey there, I'm Mian Awais. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/mianawais99/mianawais99/master/bio.gif)
+![Hey there, I'm Mian Awais. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
-# how to find us?
 
-we will be here:
-<figure class="video_container">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-</figure>
 
 <!-- <img align="right" alt="GIF" src="/2GU.gif" width="500" height="320" /> -->
 
