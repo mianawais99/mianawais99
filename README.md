@@ -9,7 +9,12 @@ Creative web developer dedicated to building and optimizing the performance of u
 
  -->
 
- ### Hi, I'm [Mian Awais](https://www.linkedin.com/in/mianawais99/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <div align="center">
+
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+</div>
+
 
 <div align="right">
 
@@ -21,7 +26,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 <div align="center">
   
-<h1>Hi, I'm <a href="https://www.mianawais.comn/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 
 
 <!-- [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
