@@ -11,6 +11,12 @@ Creative web developer dedicated to building and optimizing the performance of u
 
  -->
 
+ <h1>Hi, I'm <a href="https://www.mianawais.comn/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+| Top Languages |
+| --- |
+| ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
 <div align="center">
   
 <h1>Hi, I'm <a href="https://www.mianawais.comn/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
