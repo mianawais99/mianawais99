@@ -2,8 +2,6 @@
 
 ### Hey I'm [Mian Awais](https://www.linkedin.com/in/mianawais99/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# Hello
-## Hy
 <img align="right" alt="GIF" src="/javascript.gif" width="500" height="320" />
 Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
 
@@ -11,7 +9,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 
  -->
 
- <h1>Hi, I'm <a href="https://www.mianawais.comn/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <h1>Hi, I'm [Mian Awais](https://www.linkedin.com/in/mianawais99/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="right">
 
