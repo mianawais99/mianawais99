@@ -17,7 +17,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 | About Me | Top Languages |
 | --- | --- |
-| Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth. | ![Mian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| Creative web developer dedicated to building and optimizing the performance of Web Apps | ![Mian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 
