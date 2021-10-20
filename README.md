@@ -22,10 +22,6 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 
 <div align="center">
-  
-
-
-
 <!-- [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
 School at **UESTC**，Major in **Software Engineering**💻
