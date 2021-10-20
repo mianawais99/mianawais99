@@ -14,6 +14,12 @@ Creative web developer dedicated to building and optimizing the performance of u
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 </div>
+<div align="left">
+<p>
+Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
+</p>
+
+</div>
 
 
 <div align="right">
