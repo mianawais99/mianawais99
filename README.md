@@ -37,7 +37,7 @@ I like to Record and Share **Knowledge** ☁️
 #### Feel free to give Your Suggestions, Issues or PRs🌍
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight&margin-r=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight&margin=10" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
 </p>
 
