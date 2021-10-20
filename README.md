@@ -14,18 +14,22 @@ Creative web developer dedicated to building and optimizing the performance of u
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 </div>
-<div align="left">
+
+
+<div class="row" >
+<div class="md-5">
 <p align="left">
 Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.
 </p>
 </div>
 
-
-<div align="right">
+<div class="md-7" align="right">
 
 | Top Languages |
 | --- |
 | ![Mian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+</div>
 
 </div>
 
