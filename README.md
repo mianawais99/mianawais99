@@ -49,8 +49,8 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 #### Feel free to give Your Suggestions, Issues or PRs🌍
  <div class="row">
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight" />
-   <img align="left" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight" />
+   <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
  </div>
 
 
