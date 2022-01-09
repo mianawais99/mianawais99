@@ -33,7 +33,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" title="Skype"/>
  <a href="https://twitter.com/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
  <a href="https://facebook.com/mawais302/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" title="Facebook"/>
- <a href="https://www.instagram.com/mian_awais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"/>
+ <a href="https://www.instagram.com/mian.aws/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"/>
  <a href="https://www.reddit.com/user/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" title="reddit"/>
  <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" title="Skype"/>
   
