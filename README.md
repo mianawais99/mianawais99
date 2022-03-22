@@ -44,6 +44,9 @@ Creative web developer dedicated to building and optimizing the performance of u
 **Cloud Computing, DevOps , Web Development**☁️
 
 **Kubernetes, Docker, GCP, Azure, AWS** 🪐
+ 
+### Latest Tweets
+<p><a href="https://twitter.com/mianawais99"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mianawais99&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=mianawais99)
 
