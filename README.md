@@ -31,10 +31,10 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/>
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" title="Skype"/>
- <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
- <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" title="Facebook"/>
- <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"/>
- <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" title="reddit"/>
+ <a href="https://twitter.com/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
+ <a href="https://facebook.com/mawais302/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" title="Facebook"/>
+ <a href="https://www.instagram.com/mian.aws/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"/>
+ <a href="https://www.reddit.com/user/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" title="reddit"/>
  <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" title="Skype"/>
   
 <div align="center">
@@ -48,11 +48,11 @@ Creative web developer dedicated to building and optimizing the performance of u
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=mianawais99)
 
 #### Feel free to give Your Suggestions, Issues or PRs🌍
-  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight&margin=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
-</p>
+ <div class="row">
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&theme=tokyonight" />
+   <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianawais99&theme=tokyonight" />
+ </div>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=mianawais99&theme=flat&column=6&margin-w=10" alt="logo" height="160" align="center" />
  
