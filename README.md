@@ -59,5 +59,9 @@ Creative web developer dedicated to building and optimizing the performance of u
  </div>
 
 
+<<<<<<< HEAD
+</div>
+=======
+>>>>>>> e33b986dbd1637957155227933065b98d7176ab8
 
 
