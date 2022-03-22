@@ -49,8 +49,6 @@ I like to Record and Share **Knowledge** ☁️
 
 <img src="https://github-profile-trophy.vercel.app/?username=mianawais99&theme=flat&column=6&margin-w=10" alt="logo" height="160" align="center" />
 
-  
-  
 </div>
 
 
