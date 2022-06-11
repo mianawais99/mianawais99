@@ -12,7 +12,7 @@ Creative web developer dedicated to building and optimizing the performance of u
 
 
  <div align="center">
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1>
 </div>
 
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img align="right" width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
