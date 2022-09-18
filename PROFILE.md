@@ -2,6 +2,10 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mianawais99/">Mian Awais</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 # Full Stack Web Developer
+
+Full Stack Web Developer
+------------------------
+
 </div>
 
 
@@ -33,3 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mianawais99&theme=flat&column=6&margin-w=10" alt="logo" height="160" align="center" /></a>
   
 </p>
+
+
+
