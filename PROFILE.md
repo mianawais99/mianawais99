@@ -11,8 +11,8 @@ Full Stack Web Developer
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/></a>
-<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="50" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
+<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
 
 ## Languages and Tools 🛠️
 
