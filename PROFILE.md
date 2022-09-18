@@ -9,6 +9,7 @@ Full Stack Web Developer
 
 <p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
+<div align="center">
 ## Contact
 
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/></a>
@@ -16,10 +17,14 @@ Full Stack Web Developer
 
 ## Languages and Tools 🛠️
 
-<p align="left">
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
+
+</div>
+
+
 <div align="center">
 
 ## My interest ❤️ 
