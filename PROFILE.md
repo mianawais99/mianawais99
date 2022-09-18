@@ -10,6 +10,7 @@ Full Stack Web Developer
 <p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 <div align="center">
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/></a>
