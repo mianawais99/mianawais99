@@ -5,7 +5,12 @@
 
 Full Stack Web Developer
 ------------------------
+<p>I'm a passionate self-taught Full-Stack Web Developer and a freelance Software Engineer from Pakistan and completed my BSCS from COMSATS University Islamabad, Wah Campus.</p>
 
+<p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+
+
+<p>I'm a tech enthusiast who loves to learn about new things. I'm from Sialkot Punjab, Pakistan and currently doing my BSCS from COMSATS University Islamabad Wah Campus 🏫. On the journey to become a Devops Engineer.</p>
 
 
 
