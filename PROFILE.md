@@ -3,8 +3,13 @@
 </div>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&count_private=true&theme=darcula&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&count_private=true">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mianawais99&theme=darcula&background=FFFFFF00">
+<a href="https://www.linkedin.com/in/mianawais99/" target="_blank">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&count_private=true&theme=darcula&hide=issues,contribs&bg_color=00000000&hide_border=true"></a>
+
+<a href="https://www.linkedin.com/in/mianawais99/" target="_blank">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mianawais99&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&count_private=true&hide_border=true"></a>
+
+<a href="https://www.linkedin.com/in/mianawais99/" target="_blank">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mianawais99&theme=darcula&background=FFFFFF00&hide_border=true"></a>
   <br>
 </p>
