@@ -5,7 +5,7 @@
 
 Full Stack Web Developer
 ------------------------
-<p>I'm a passionate self-taught Full-Stack Web Developer and a freelance Software Engineer from Pakistan and completed my BSCS from COMSATS University Islamabad, Wah Campus.</p>
+<p>I'm a passionate Software Engineer and a freelance Full-Stack Web Developer from Pakistan and completed my BSCS from COMSATS University Islamabad, Wah Campus.</p>
 
 <p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
@@ -14,19 +14,25 @@ Full Stack Web Developer
 ## Contact
 
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"/></a>
-<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
+<a href="https://twitter.com/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"  title="Twitter"/>
 <a href="https://www.instagram.com/mian.aws/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg"  title="Instagram"/>
-<a href="https://www.linkedin.com/in/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"  title="Reddit"/>
+<a href="https://www.reddit.com/user/mianawais99/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"  title="Reddit"/>
+ <a href="https://www.facebook.com/mianawais999/" target="_blank"><img width="36" height="36" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"  title="Facebook"/>
 
-## Languages and Tools 🛠️
+## Languages
 
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+<a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<a href="/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 </p>
+  
+ ## Technologies 🛠️
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  
+<a href="/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 
 </div>
 
