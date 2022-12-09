@@ -44,12 +44,8 @@ Full Stack Web Developer
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="azure" width="40" height="40"/></a>
 <a href="/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
- 
  </p>
-
-</div>
-
-
+ 
 <div align="center">
 
 ## My interest ❤️ 
@@ -57,12 +53,16 @@ Full Stack Web Developer
 **Web Development, Cloud Computing, DevOps**☁️
 
 **Kubernetes, Docker, GCP, Azure, AWS** 🪐
+<!--
+### Latest Tweets
+<p><a href="https://twitter.com/mianawais99"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mianawais99&amp;layout=wide" alt="github-readme-twitter"></a></p>
+-->
 
 
 ## My Github Stats👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=mianawais99)
 
 #### Feel free to give Your Suggestions, Issues or PRs🌍
-</div>
+<div>
 <p align="center">
 <a href="https://www.linkedin.com/in/mianawais99/" target="_blank">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mianawais99&show_icons=true&count_private=true&theme=darcula&hide=issues,contribs&bg_color=00000000&hide_border=true"></a>
@@ -79,6 +79,8 @@ Full Stack Web Developer
   <p align="center"> <a href="https://www.linkedin.com/in/mianawais99/" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=mianawais99&theme=flat&column=6&margin-w=10" alt="logo" height="160" align="center" /></a></p>
 </details>
+
+</div>
 
 
 
