@@ -5,9 +5,7 @@
 
 Full Stack Web Developer
 ------------------------
-<p>I'm a passionate Software Engineer and a freelance Full-Stack Web Developer from Pakistan and completed my BSCS from COMSATS University Islamabad, Wah Campus.</p>
-
-<p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p>I'm a passionate Software Engineer and a freelance Full-Stack Web Developer with expertise in .NET and Angular with TypeScript. I specialize in building scalable web applications and have hands-on experience with cloud technologies, particularly in setting up CI/CD pipelines using Azure DevOps.</p> <p>I'm also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and love how collaboration and knowledge sharing drive innovation in the tech world.</p>
 
 <div align="center">
 
