@@ -38,7 +38,6 @@ Full Stack Web Developer
  <a href="/https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="asp dot net" width="40" height="40"/></a>
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL Server" width="40" height="40"/></a>
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
- <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a>
  <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="azure" width="40" height="40"/></a>
